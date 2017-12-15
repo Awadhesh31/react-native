@@ -1,0 +1,3 @@
+rootProject.name = 'reactfirebase'
+
+include ':app'
