@@ -14,11 +14,7 @@ import Toolbar from './app/components/Toolbar/Toolbar';
 import * as firebase from 'firebase';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDhDKbRMFwzk9Btx3P8zIq2k6J6TCgfaIQ",
-    authDomain: "tech-9ce04.firebaseapp.com",
-    databaseURL: "https://tech-9ce04.firebaseio.com",
-    projectId: "tech-9ce04",
-    storageBucket: "tech-9ce04.appspot.com",
+   
 }
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
